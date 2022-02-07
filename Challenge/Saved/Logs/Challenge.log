@@ -4769,3 +4769,179 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.02.07-13.44.27:824][842]LogSlate: Window 'LavaMaster' being destroyed
 [2022.02.07-13.44.27:849][842]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2022.02.07-13.44.27:850][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-13.52.12:028][542]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Map/Shaders/MasterMats/LavaMaster.LavaMaster
+[2022.02.07-13.52.12:030][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.02.07-13.52.12:526][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.02.07-13.52.12:534][542]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2022.02.07-13.52.12:554][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.02.07-13.52.12:554][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.02.07-13.52.12:554][542]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.02.07-13.52.12:554][542]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.02.07-13.52.12:556][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.07-13.52.12:561][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2022.02.07-13.52.12:565][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.02.07-13.52.12:568][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2022.02.07-13.52.12:573][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2022.02.07-13.52.13:933][593]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2022.02.07-13.52.15:303][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2022.02.07-13.52.15:970][684]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.02.07-13.52.16:839][722]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2022.02.07-13.52.17:581][755]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2022.02.07-13.52.18:536][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.02.07-13.52.19:253][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.02.07-13.52.19:279][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.02.07-13.52.19:732][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.02.07-13.52.21:426][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.02.07-13.52.21:426][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.02.07-13.52.21:606][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.02.07-13.52.22:059][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.02.07-13.52.22:118][947]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.02.07-13.52.22:118][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.02.07-13.52.22:119][947]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.07-13.52.22:119][947]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.07-13.52.22:119][947]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.07-13.52.22:119][947]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.07-13.52.23:438][  4]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.02.07-13.52.23:508][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.02.07-13.52.23:762][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.02.07-13.52.23:762][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.02.07-13.52.25:193][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.02.07-13.52.25:388][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.02.07-13.52.25:434][ 89]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.02.07-13.52.25:662][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.07-13.52.26:531][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.02.07-13.52.26:716][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.07-13.52.26:734][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.07-13.52.27:083][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.07-13.52.28:057][203]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.02.07-13.52.28:121][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.07-13.52.28:411][219]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.07-13.52.37:855][649]LogSlate: Window 'Message' being destroyed
+[2022.02.07-13.52.37:860][649]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Map/Shaders/MasterMats/LavaMaster.LavaMaster
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.07-13.52.37:861][649]LogSlate: Window 'LavaMaster' being destroyed
+[2022.02.07-13.52.37:863][649]LogSlate: Window 'LavaMaster' being destroyed
+[2022.02.07-13.52.37:995][649]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-13.52.37:995][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-14.05.37:595][109]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.02.07-14.05.37:609][110]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.02.07-14.05.37:611][110]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.02.07-14.05.37:620][110]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.02.07-14.11.07:511][319]LogContentBrowser: Attempting asset rename: Opaque_MicroVariation -> Opaque_MicroVariation
+[2022.02.07-14.11.07:691][327]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Map/Shaders/MasterMats/LavaMaster.LavaMaster
+[2022.02.07-14.11.07:694][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2022.02.07-14.11.08:284][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2022.02.07-14.11.08:292][327]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2022.02.07-14.11.08:305][327]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.02.07-14.11.08:305][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.02.07-14.11.08:305][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.02.07-14.11.08:305][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.02.07-14.11.08:307][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.07-14.11.08:310][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2022.02.07-14.11.08:313][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.02.07-14.11.08:316][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2022.02.07-14.11.08:319][327]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2022.02.07-14.11.09:595][379]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2022.02.07-14.11.10:133][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2022.02.07-14.11.10:418][414]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.02.07-14.11.10:938][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2022.02.07-14.11.11:623][466]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2022.02.07-14.11.12:001][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.02.07-14.11.12:563][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.02.07-14.11.12:609][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.02.07-14.11.12:631][507]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.02.07-14.11.13:396][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.02.07-14.11.13:435][543]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.02.07-14.11.13:481][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.02.07-14.11.13:822][560]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: Base pass shader: 145 instructions
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.02.07-14.11.13:859][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.07-14.11.14:245][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.02.07-14.11.14:376][583]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.02.07-14.11.14:415][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.07-14.11.14:519][587]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.02.07-14.11.15:085][605]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.02.07-14.11.15:128][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.02.07-14.11.15:316][615]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.07-14.11.15:402][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.07-14.11.16:076][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.07-14.11.16:295][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.02.07-14.11.16:334][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.02.07-14.11.16:419][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.02.07-14.11.17:258][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.07-14.11.17:258][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.07-14.11.17:319][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.07-14.12.56:871][175]LogSlate: Window 'LavaMaster' being destroyed
+[2022.02.07-14.12.56:877][175]LogSlate: Window 'LavaMaster' being destroyed
+[2022.02.07-14.12.56:907][175]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-14.12.56:907][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-14.12.58:589][269]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Map/Shaders/MasterMats/Opaque_MicroVariation.Opaque_MicroVariation
+[2022.02.07-14.12.58:590][269]LogMaterial: Display: Missing cached shader map for material Opaque_MicroVariation, compiling. 
+[2022.02.07-14.12.58:700][269]LogMaterial: Display: Missing cached shader map for material Opaque_MicroVariation, compiling. 
+[2022.02.07-14.12.58:711][269]LogMaterial: Display: Missing cached shader map for material Opaque_MicroVariation, compiling. 
+[2022.02.07-14.12.58:724][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.02.07-14.12.58:724][269]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.02.07-14.12.58:724][269]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.02.07-14.12.58:724][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.02.07-14.12.58:730][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2022.02.07-14.12.58:735][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_49, compiling. 
+[2022.02.07-14.12.58:738][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_50, compiling. 
+[2022.02.07-14.12.58:744][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_51, compiling. 
+[2022.02.07-14.12.58:749][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2022.02.07-14.12.58:753][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2022.02.07-14.12.58:757][269]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2022.02.07-14.13.00:511][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2022.02.07-14.13.01:079][363]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2022.02.07-14.13.01:164][367]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2022.02.07-14.13.01:684][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2022.02.07-14.13.01:936][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2022.02.07-14.13.03:165][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2022.02.07-14.13.03:438][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.02.07-14.13.03:665][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2022.02.07-14.13.04:264][507]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2022.02.07-14.13.04:313][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2022.02.07-14.13.04:893][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.02.07-14.13.05:151][547]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2022.02.07-14.13.05:151][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2022.02.07-14.13.05:646][570]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.02.07-14.13.05:696][572]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Base pass shader: 141 instructions
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Base pass shader with Surface Lightmap: 168 instructions
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 215 instructions
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2022.02.07-14.13.05:697][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.07-14.13.06:208][596]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.02.07-14.13.06:371][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2022.02.07-14.13.06:555][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.02.07-14.13.06:660][615]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2022.02.07-14.13.07:420][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.02.07-14.13.07:610][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.02.07-14.13.07:734][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.02.07-14.13.07:777][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.02.07-14.13.08:652][702]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.02.07-14.13.08:810][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.02.07-14.13.08:810][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.02.07-14.13.08:976][717]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.02.07-14.13.09:265][731]LogSlate: Window 'Opaque_MicroVariation' being destroyed
+[2022.02.07-14.13.09:272][731]LogSlate: Window 'Opaque_MicroVariation' being destroyed
+[2022.02.07-14.13.09:304][731]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-14.13.09:304][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-14.13.26:197][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Textures/wmap_lava_nrm" FILE="../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Textures/wmap_lava_nrm.uasset" SILENT=true
+[2022.02.07-14.13.26:213][640]LogSavePackage: Moving '../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/wmap_lava_nrm1780C5F0407737D9276178BA4CC33F4A.tmp' to '../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Textures/wmap_lava_nrm.uasset'
+[2022.02.07-14.13.26:353][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.07-14.13.26:374][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.07-14.13.26:378][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.02.07-14.13.26:500][640]LogSavePackage: Moving '../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/LavaMaster0D7F57FA476966BEEB31DBB2C97C26FA.tmp' to '../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/LavaMaster.uasset'
+[2022.02.07-14.13.26:541][640]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-14.13.26:541][640]LogContentValidation: Display: Validating Texture2D /Game/Map/Textures/wmap_lava_nrm.wmap_lava_nrm
+[2022.02.07-14.13.26:541][640]LogContentValidation: Display: Validating Material /Game/Map/Shaders/MasterMats/LavaMaster.LavaMaster
+[2022.02.07-14.54.29:006][877]LogDirectoryWatcher: Display: A directory notification failed for 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.07-14.54.29:012][877]LogDirectoryWatcher: Display: A directory notification failed for 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Developers/sonic/Collections/' because it could not be accessed. Aborting watch request...
+[2022.02.07-14.54.29:249][878]LogDirectoryWatcher: Display: A directory notification failed for 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Collections/' because it could not be accessed. Aborting watch request...
