@@ -1,0 +1,1359 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+Stats thread started at 2.634513
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin LightPropagationVolume
+Mounting plugin CameraShakePreviewer
+Mounting plugin AnimationSharing
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin PluginUtils
+Mounting plugin PlasticSourceControl
+Mounting plugin PropertyAccessNode
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin AssetManagerEditor
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin CryptoKeys
+Mounting plugin CurveEditorTools
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin VariantManagerContent
+Mounting plugin Niagara
+Mounting plugin AlembicImporter
+Mounting plugin AutomationUtils
+Mounting plugin BackChannel
+Mounting plugin ChaosCloth
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosEditor
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin GeometryProcessing
+Mounting plugin GPULightmass
+Mounting plugin MotoSynth
+Mounting plugin PlanarCut
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin SkeletalReduction
+Mounting plugin LuminPlatformFeatures
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin TemplateSequence
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin CableComponent
+Mounting plugin ChunkDownloader
+Mounting plugin CustomMeshComponent
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin EditableMesh
+Mounting plugin GoogleCloudMessaging
+Mounting plugin GooglePAD
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ScreenshotTools
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+GPULightmass module is loaded
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.26-CL-15973114
+Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+Net CL: 14830424
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz, GPU: Intel(R) UHD Graphics
+Compiled (64-bit): Apr 12 2021 06:14:10
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.26
+Command Line:  "I:\Program Files (x86)\UnrealProjects\Challenge48h-3-B\Challenge\Challenge.uproject" -run=Cook -Map=Arena -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -compressed -abslog=I:\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.02.08-11.19.48.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: I:/UE_4.26/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Setting CVar [[r.SkinCache.CompileShaders:1]]
+Setting CVar [[r.RayTracing:1]]
+Setting CVar [[r.VirtualTextures:1]]
+Setting CVar [[r.VirtualTexturedLightmaps:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Config/Windows/Editor.ini]
+Computer: LAPTOP-ETUDULHI
+User: sonic
+CPU Page size=4096, Cores=4
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.8GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 136.33 MB used, 136.34 MB peak
+Process Virtual Memory: 155.61 MB used, 155.61 MB peak
+Physical Memory: 8818.99 MB used,  7396.06 MB free, 16215.05 MB total
+Virtual Memory: 134211784.00 MB used,  5942.52 MB free, 134217728.00 MB total
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For WindowsNoEditor
+Lib vorbis DLL was dynamically loaded.
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Using OS detected language (fr-FR).
+Using OS detected locale (fr-FR).
+No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+Ray tracing is disabled. Reason: not supported by current RHI.
+Guid format shader working directory is -27 characters bigger than the processId version (../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Intermediate/Shaders/WorkingDirectory/6940/).
+Cleaned the shader compiler working directory 'C:/Users/sonic/AppData/Local/Temp/UnrealShaderWorkingDir/124DE0654E205AFA923992B1CE917120/'.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.12s 92MB C:/Users/sonic/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/sonic/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/sonic/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/sonic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=155.48MBs, RandomWriteSpeed=181.77MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/sonic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0019 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [000001F375B96200][000001F373BB7D40 49] Windows
+Profiles: [000001F375B96200][000001F373BB7D40 49] Windows, [000001F375B2D400][000001F36F63C200 49] WindowsNoEditor, [000001F375B95900][000001F36F640380 49] WindowsServer, [000001F375B2DC00][000001F36F644500 49] WindowsClient, [000001F375B96B00][000001F36F648680 49] IOS, [000001F375B2EF00][000001F36F64C800 49] iPadAir, [000001F375B2FB00][000001F36F650980 49] iPadAir2, [000001F375AD9B00][000001F36F65EC40 49] IPadPro, [000001F375AD9C00][000001F36F654C80 49] iPadAir3, [000001F375B94B00][000001F36F668E00 49] iPadAir4, [000001F375AD8200][000001F36F66CF80 49] iPadMini2, [000001F375B94A00][000001F36F671100 49] iPadMini3, [000001F375ADB800][000001F36F675280 49] iPadMini4, [000001F375B2FE00][000001F36F679400 49] iPadMini5, [000001F375B01500][000001F373BBB680 49] iPhone6, [000001F375B01600][000001F36F67D6C0 49] iPodTouch6, [000001F375AD8400][000001F374B61900 49] iPhone7, [000001F375ADA900][000001F374B5D940 49] iPodTouch7, [000001F375B00400][000001F374B69AC0 49] iPhone5S, [000001F375ADBB00][000001F374B6DC40 49] iPhone6Plus, [000001F375B01E00][000001F374B70100 49] iPhone6S, [000001F375ADB000][000001F374B74280 49] iPhone6SPlus, [000001F375B00A00][000001F374B78400 49] iPhone7Plus, [000001F375AD8800][000001F374B7C580 49] iPhoneSE, [000001F375B02500][000001F374B80700 49] iPhone8, [000001F375AD8E00][000001F374B84880 49] iPhone8Plus, [000001F375B01300][000001F374B88A00 49] iPhoneX, [000001F375AD8100][000001F374B8CB80 49] iPhoneXS, [000001F375B02D00][000001F374B90D00 49] iPhoneXSMax, [000001F375AD9E00][000001F374B94E80 49] iPhoneXR, [000001F375B03A00][000001F374B99000 49] iPhone11, [000001F375ADA700][000001F374B9D180 49] iPhone11Pro, [000001F375B01C00][000001F374BA1300 49] iPhone11ProMax, [000001F375AD8700][000001F374BA5480 49] iPhoneSE2, [000001F375B00900][000001F374BA9600 49] iPhone12Mini, [000001F375ADA400][000001F374B65740 49] iPhone12, [000001F375B02200][000001F374BAD880 49] iPhone12Pro, [000001F375ADAF00][000001F374BB19C0 49] iPhone12ProMax, [000001F375B00F00][000001F374BB5B00 49] iPadPro105, [000001F375AD9500][000001F374BBDC80 49] iPadPro129, [000001F375B02A00][000001F374BC0140 49] iPadPro97, [000001F375AD8F00][000001F374BC42C0 49] iPadPro2_129, [000001F375B01700][000001F374BC8440 49] iPad5, [000001F375AD9D00][000001F374BCC5C0 49] iPad6, [000001F375B00300][000001F374BD0740 49] iPad7, [000001F375ADB900][000001F374BD48C0 49] iPad8, [000001F375B02100][000001F374BD8A40 49] iPadPro11, [000001F375ADBC00][000001F374BDCBC0 49] iPadPro2_11, [000001F375B00700][000001F374BE0D40 49] iPadPro3_129, [000001F375AD8500][000001F374BE4EC0 49] iPadPro4_129, [000001F375B02900][000001F374BE9040 49] AppleTV, [000001F375ADAC00][000001F374BED1C0 49] AppleTV4K, [000001F375B01100][000001F374BF1340 49] TVOS, [000001F375AD9800][000001F374BF54C0 49] Mac, [000001F375B00200][000001F374BF9640 49] MacClient, [000001F375AD9100][000001F374BB9780 49] MacNoEditor, [000001F375B03200][000001F374BFD8C0 49] MacServer, [000001F375ADB100][000001F374C01A00 49] Linux, [000001F375B03F00][000001F374C05B40 49] LinuxAArch64, [000001F375ADAB00][000001F374C0DCC0 49] LinuxNoEditor, [000001F375B02400][000001F374C10180 49] LinuxAArch64NoEditor, [000001F375AD9000][000001F374C14300 49] LinuxClient, [000001F375B03500][000001F374C18480 49] LinuxAArch64Client, [000001F375ADA100][000001F374C1C600 49] LinuxServer, [000001F375B02B00][000001F374C20780 49] LinuxAArch64Server, [000001F375AD8300][000001F374C24900 49] Android, [000001F375B00D00][000001F374C28A80 49] Android_Low, [000001F375ADA000][000001F374C2CC00 49] Android_Mid, [000001F375B03B00][000001F374C30D80 49] Android_High, [000001F375ADA800][000001F374C34F00 49] Android_Default, [000001F375B01000][000001F374C39080 49] Android_Adreno4xx, [000001F375ADBA00][000001F374C3D200 49] Android_Adreno5xx_Low, [000001F375B96A00][000001F374C41380 49] Android_Adreno5xx, [000001F375B2CF00][000001F374C45500 49] Android_Adreno6xx, [000001F375B96800][000001F374C49680 49] Android_Adreno6xx_Vulkan, [000001F375B2D800][000001F374C4D800 49] Android_Mali_T6xx, [000001F375B95300][000001F374C09940 49] Android_Mali_T7xx, [000001F375B2E300][000001F374C51A80 49] Android_Mali_T8xx, [000001F375B94400][000001F374C55BC0 49] Android_Mali_G71, [000001F375B2F900][000001F374C5DD40 49] Android_Mali_G72, [000001F375B95200][000001F374C60200 49] Android_Mali_G72_Vulkan, [000001F375B2ED00][000001F374C64380 49] Android_Mali_G76, [000001F375B94500][000001F374C68500 49] Android_Mali_G76_Vulkan, [000001F375B2FF00][000001F374C6C680 49] Android_Mali_G77, [000001F375B94C00][000001F374C70800 49] Android_Mali_G77_Vulkan, [000001F375B2E500][000001F374C74980 49] Android_Vulkan_SM5, [000001F375B96900][000001F374C78B00 49] Android_PowerVR_G6xxx, [000001F375B2D600][000001F374C7CC80 49] Android_PowerVR_GT7xxx, [000001F375B95B00][000001F374C80E00 49] Android_PowerVR_GE8xxx, [000001F375B2C700][000001F374C84F80 49] Android_PowerVR_GM9xxx, [000001F375B96400][000001F374C89100 49] Android_PowerVR_GM9xxx_Vulkan, [000001F375B2C500][000001F374C8D280 49] Android_TegraK1, [000001F375B94200][000001F374C91400 49] Android_Unknown_Vulkan, [000001F375B2FD00][000001F374C95580 49] Lumin, [000001F375ADAE00][000001F374C99700 49] Lumin_Desktop, [000001F375B02700][000001F374C9D880 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Challenge 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 383211332)
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+Worker (1/5): shaders left to compile 19
+Worker (2/5): shaders left to compile 15
+Worker (3/5): shaders left to compile 11
+Worker (4/5): shaders left to compile 7
+Worker (5/5): shaders left to compile 3
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+Missing cached shader map for material Widget3DPassThrough, compiling. 
+PokeAHoleMaterial loaded successfully
+Worker (1/5): shaders left to compile 104
+Worker (4/5): shaders left to compile 94
+Processed 23 localized package path(s) for 1 prioritized culture(s) in 2.520514 seconds
+Worker (2/5): shaders left to compile 84
+Worker (3/5): shaders left to compile 74
+Worker (5/5): shaders left to compile 64
+Loaded 0 collections in 0.003035 seconds
+Scanning file cache for directory 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Developers/sonic/Collections/' took 0.00s
+Scanning file cache for directory 'I:/Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Collections/' took 0.00s
+Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+Worker (1/5): shaders left to compile 80
+Worker (2/5): shaders left to compile 70
+Worker (5/5): shaders left to compile 60
+Worker (4/5): shaders left to compile 50
+Worker (3/5): shaders left to compile 40
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OculusInput pre-init called
+Failed to load 'OVRPlugin.dll' (GetLastError=126)
+File 'OVRPlugin.dll' does not exist
+20717 objects as part of root set at end of initial load.
+5600816 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Worker (1/5): shaders left to compile 31
+Worker (2/5): shaders left to compile 24
+Worker (3/5): shaders left to compile 19
+Worker (4/5): shaders left to compile 15
+Worker (5/5): shaders left to compile 11
+Worker (3/5): shaders left to compile 8
+Worker (2/5): shaders left to compile 6
+Worker (1/5): shaders left to compile 4
+Worker (5/5): shaders left to compile 3
+Worker (2/5): shaders left to compile 2
+Worker (1/5): shaders left to compile 1
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 0.06s 92MB C:/Users/sonic/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+New page: Editor Load
+CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+Mobile HDR setting 1
+Creating asset registry
+Discovering localized assets for cultures: en
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Clearing all cooked content for platform WindowsNoEditor
+Sandbox cleanup took 0.358 seconds for platforms WindowsNoEditor
+Worker (1/5): shaders left to compile 3318
+Worker (2/5): shaders left to compile 3317
+Worker (3/5): shaders left to compile 3316
+Worker (4/5): shaders left to compile 3315
+Worker (5/5): shaders left to compile 3314
+Worker (2/5): shaders left to compile 3313
+Worker (1/5): shaders left to compile 3312
+Worker (4/5): shaders left to compile 3311
+Worker (5/5): shaders left to compile 3310
+Worker (3/5): shaders left to compile 3309
+Worker (2/5): shaders left to compile 3308
+Worker (1/5): shaders left to compile 3307
+Worker (1/5): shaders left to compile 3306
+Worker (3/5): shaders left to compile 3305
+Worker (4/5): shaders left to compile 3304
+Worker (2/5): shaders left to compile 3303
+Worker (2/5): shaders left to compile 3302
+Worker (3/5): shaders left to compile 3301
+Worker (4/5): shaders left to compile 3300
+Worker (1/5): shaders left to compile 3299
+Worker (5/5): shaders left to compile 3298
+Worker (4/5): shaders left to compile 3297
+Worker (3/5): shaders left to compile 3296
+Worker (1/5): shaders left to compile 3295
+Worker (2/5): shaders left to compile 3294
+Worker (5/5): shaders left to compile 3293
+Worker (3/5): shaders left to compile 3292
+Worker (4/5): shaders left to compile 3291
+Worker (1/5): shaders left to compile 3290
+Worker (2/5): shaders left to compile 3289
+Worker (5/5): shaders left to compile 3288
+Worker (3/5): shaders left to compile 3287
+Worker (2/5): shaders left to compile 3286
+Worker (4/5): shaders left to compile 3285
+Worker (1/5): shaders left to compile 3284
+Worker (1/5): shaders left to compile 3283
+Worker (4/5): shaders left to compile 3282
+Worker (4/5): shaders left to compile 3281
+Worker (1/5): shaders left to compile 3280
+Worker (4/5): shaders left to compile 3279
+Worker (5/5): shaders left to compile 3278
+Worker (1/5): shaders left to compile 3277
+Worker (5/5): shaders left to compile 3276
+Worker (4/5): shaders left to compile 3275
+Worker (1/5): shaders left to compile 3274
+Worker (5/5): shaders left to compile 3273
+Worker (1/5): shaders left to compile 3272
+Worker (4/5): shaders left to compile 3271
+Worker (5/5): shaders left to compile 3270
+Worker (4/5): shaders left to compile 3269
+Worker (1/5): shaders left to compile 3268
+Worker (5/5): shaders left to compile 3267
+Worker (4/5): shaders left to compile 3266
+Worker (1/5): shaders left to compile 3265
+Worker (5/5): shaders left to compile 3264
+Worker (1/5): shaders left to compile 3263
+Worker (4/5): shaders left to compile 3262
+Worker (1/5): shaders left to compile 3261
+Worker (3/5): shaders left to compile 3260
+Worker (5/5): shaders left to compile 3259
+Worker (4/5): shaders left to compile 3258
+Worker (4/5): shaders left to compile 3257
+Worker (1/5): shaders left to compile 3256
+Worker (3/5): shaders left to compile 3255
+Worker (5/5): shaders left to compile 3254
+Worker (5/5): shaders left to compile 3253
+Worker (1/5): shaders left to compile 3252
+Worker (4/5): shaders left to compile 3251
+Worker (3/5): shaders left to compile 3250
+Worker (5/5): shaders left to compile 3249
+Worker (4/5): shaders left to compile 3248
+Worker (3/5): shaders left to compile 3247
+Worker (1/5): shaders left to compile 3246
+Worker (5/5): shaders left to compile 3245
+Worker (4/5): shaders left to compile 3244
+Worker (3/5): shaders left to compile 3243
+Worker (1/5): shaders left to compile 3242
+Worker (4/5): shaders left to compile 3241
+Worker (1/5): shaders left to compile 3240
+Worker (3/5): shaders left to compile 3239
+Worker (1/5): shaders left to compile 3238
+Worker (3/5): shaders left to compile 3237
+Worker (1/5): shaders left to compile 3236
+Worker (4/5): shaders left to compile 3235
+Worker (2/5): shaders left to compile 3234
+Worker (3/5): shaders left to compile 3233
+Worker (4/5): shaders left to compile 3232
+Worker (5/5): shaders left to compile 3231
+Worker (1/5): shaders left to compile 3230
+Worker (2/5): shaders left to compile 3229
+Worker (5/5): shaders left to compile 3228
+Worker (4/5): shaders left to compile 3227
+Worker (3/5): shaders left to compile 3226
+Worker (1/5): shaders left to compile 3225
+Worker (2/5): shaders left to compile 3224
+Worker (5/5): shaders left to compile 3223
+Worker (4/5): shaders left to compile 3222
+Worker (1/5): shaders left to compile 3221
+Worker (3/5): shaders left to compile 3220
+Worker (4/5): shaders left to compile 3219
+Worker (5/5): shaders left to compile 3218
+Worker (1/5): shaders left to compile 3217
+Worker (2/5): shaders left to compile 3216
+Worker (3/5): shaders left to compile 3215
+Worker (5/5): shaders left to compile 3214
+Worker (4/5): shaders left to compile 3213
+Worker (3/5): shaders left to compile 3212
+Worker (2/5): shaders left to compile 3211
+Worker (1/5): shaders left to compile 3210
+Worker (5/5): shaders left to compile 3209
+Worker (4/5): shaders left to compile 3208
+Worker (3/5): shaders left to compile 3207
+Worker (1/5): shaders left to compile 3206
+Worker (2/5): shaders left to compile 3205
+Worker (5/5): shaders left to compile 3204
+Worker (4/5): shaders left to compile 3203
+Worker (3/5): shaders left to compile 3202
+Worker (1/5): shaders left to compile 3201
+Worker (3/5): shaders left to compile 3200
+Worker (1/5): shaders left to compile 3199
+Worker (3/5): shaders left to compile 3198
+Worker (2/5): shaders left to compile 3197
+Worker (1/5): shaders left to compile 3196
+Worker (3/5): shaders left to compile 3195
+Worker (2/5): shaders left to compile 3194
+Worker (4/5): shaders left to compile 3193
+Worker (5/5): shaders left to compile 3192
+Worker (1/5): shaders left to compile 3191
+Worker (4/5): shaders left to compile 3190
+Worker (2/5): shaders left to compile 3189
+Worker (5/5): shaders left to compile 3188
+Worker (1/5): shaders left to compile 3187
+Worker (2/5): shaders left to compile 3186
+Worker (4/5): shaders left to compile 3185
+Worker (3/5): shaders left to compile 3184
+Worker (4/5): shaders left to compile 3183
+Worker (4/5): shaders left to compile 3182
+Worker (3/5): shaders left to compile 3181
+Worker (2/5): shaders left to compile 3180
+Worker (4/5): shaders left to compile 3179
+Worker (1/5): shaders left to compile 3178
+Worker (1/5): shaders left to compile 3177
+Worker (5/5): shaders left to compile 3176
+Worker (5/5): shaders left to compile 3175
+Worker (1/5): shaders left to compile 3174
+Worker (5/5): shaders left to compile 3173
+Worker (1/5): shaders left to compile 3172
+Worker (5/5): shaders left to compile 3171
+Worker (5/5): shaders left to compile 3170
+Worker (1/5): shaders left to compile 3169
+Worker (4/5): shaders left to compile 3168
+Worker (1/5): shaders left to compile 3167
+Worker (5/5): shaders left to compile 3166
+Worker (2/5): shaders left to compile 3165
+Worker (5/5): shaders left to compile 3164
+Worker (1/5): shaders left to compile 3163
+Worker (4/5): shaders left to compile 3162
+Worker (2/5): shaders left to compile 3161
+Worker (1/5): shaders left to compile 3160
+Worker (4/5): shaders left to compile 3159
+Worker (2/5): shaders left to compile 3158
+Worker (5/5): shaders left to compile 3157
+Worker (4/5): shaders left to compile 3156
+Worker (1/5): shaders left to compile 3155
+Worker (2/5): shaders left to compile 3154
+Worker (4/5): shaders left to compile 3153
+Worker (5/5): shaders left to compile 3152
+Worker (1/5): shaders left to compile 3151
+Worker (2/5): shaders left to compile 3150
+Worker (4/5): shaders left to compile 3149
+Worker (5/5): shaders left to compile 3148
+Worker (1/5): shaders left to compile 3147
+Worker (2/5): shaders left to compile 3146
+Worker (5/5): shaders left to compile 3145
+Worker (4/5): shaders left to compile 3144
+Worker (1/5): shaders left to compile 3143
+Worker (2/5): shaders left to compile 3142
+Worker (4/5): shaders left to compile 3141
+Worker (5/5): shaders left to compile 3140
+Worker (1/5): shaders left to compile 3139
+Worker (2/5): shaders left to compile 3138
+Worker (5/5): shaders left to compile 3137
+Worker (1/5): shaders left to compile 3136
+Worker (4/5): shaders left to compile 3135
+Worker (2/5): shaders left to compile 3134
+Worker (5/5): shaders left to compile 3133
+Worker (1/5): shaders left to compile 3132
+Worker (4/5): shaders left to compile 3131
+Worker (5/5): shaders left to compile 3130
+Worker (2/5): shaders left to compile 3129
+Worker (1/5): shaders left to compile 3128
+Worker (4/5): shaders left to compile 3127
+Worker (5/5): shaders left to compile 3126
+Worker (2/5): shaders left to compile 3125
+Worker (1/5): shaders left to compile 3124
+Worker (4/5): shaders left to compile 3123
+Worker (2/5): shaders left to compile 3122
+Worker (5/5): shaders left to compile 3121
+Worker (1/5): shaders left to compile 3120
+Worker (4/5): shaders left to compile 3119
+Worker (5/5): shaders left to compile 3118
+Worker (2/5): shaders left to compile 3117
+Worker (1/5): shaders left to compile 3116
+Worker (1/5): shaders left to compile 3115
+Worker (2/5): shaders left to compile 3114
+Worker (4/5): shaders left to compile 3113
+Worker (5/5): shaders left to compile 3112
+Worker (5/5): shaders left to compile 3111
+Worker (4/5): shaders left to compile 3110
+Worker (1/5): shaders left to compile 3109
+Worker (2/5): shaders left to compile 3108
+Worker (2/5): shaders left to compile 3107
+Worker (5/5): shaders left to compile 3106
+Worker (1/5): shaders left to compile 3105
+Worker (4/5): shaders left to compile 3104
+Worker (2/5): shaders left to compile 3103
+Worker (5/5): shaders left to compile 3102
+Worker (1/5): shaders left to compile 3101
+Worker (4/5): shaders left to compile 3100
+Worker (2/5): shaders left to compile 3099
+Worker (5/5): shaders left to compile 3098
+Worker (1/5): shaders left to compile 3097
+Worker (4/5): shaders left to compile 3096
+Worker (2/5): shaders left to compile 3095
+Worker (5/5): shaders left to compile 3094
+Worker (1/5): shaders left to compile 3093
+Worker (4/5): shaders left to compile 3092
+Worker (2/5): shaders left to compile 3091
+Worker (5/5): shaders left to compile 3090
+Worker (1/5): shaders left to compile 3089
+Worker (4/5): shaders left to compile 3088
+Worker (4/5): shaders left to compile 3087
+Worker (4/5): shaders left to compile 3086
+Worker (4/5): shaders left to compile 3085
+Worker (1/5): shaders left to compile 3084
+Worker (4/5): shaders left to compile 3083
+Worker (1/5): shaders left to compile 3082
+Worker (4/5): shaders left to compile 3081
+Worker (1/5): shaders left to compile 3080
+Worker (5/5): shaders left to compile 3079
+Worker (4/5): shaders left to compile 3078
+Worker (2/5): shaders left to compile 3077
+Worker (1/5): shaders left to compile 3076
+Worker (5/5): shaders left to compile 3075
+Worker (2/5): shaders left to compile 3074
+Worker (1/5): shaders left to compile 3073
+Worker (4/5): shaders left to compile 3072
+Worker (5/5): shaders left to compile 3071
+Worker (2/5): shaders left to compile 3070
+Worker (4/5): shaders left to compile 3069
+Worker (5/5): shaders left to compile 3068
+Worker (1/5): shaders left to compile 3067
+Worker (2/5): shaders left to compile 3066
+Worker (1/5): shaders left to compile 3065
+Worker (4/5): shaders left to compile 3064
+Worker (5/5): shaders left to compile 3063
+Worker (2/5): shaders left to compile 3062
+Worker (1/5): shaders left to compile 3061
+Worker (4/5): shaders left to compile 3060
+Worker (5/5): shaders left to compile 3059
+Worker (2/5): shaders left to compile 3058
+Worker (1/5): shaders left to compile 3057
+Worker (4/5): shaders left to compile 3056
+Worker (2/5): shaders left to compile 3055
+Worker (1/5): shaders left to compile 3054
+Worker (5/5): shaders left to compile 3053
+Worker (3/5): shaders left to compile 3052
+Worker (4/5): shaders left to compile 3051
+Worker (2/5): shaders left to compile 3050
+Worker (1/5): shaders left to compile 3049
+Worker (5/5): shaders left to compile 3048
+Worker (3/5): shaders left to compile 3047
+Worker (4/5): shaders left to compile 3046
+Worker (2/5): shaders left to compile 3045
+Worker (1/5): shaders left to compile 3044
+Worker (5/5): shaders left to compile 3043
+Worker (3/5): shaders left to compile 3042
+Worker (4/5): shaders left to compile 3041
+Worker (2/5): shaders left to compile 3040
+Worker (1/5): shaders left to compile 3039
+Worker (5/5): shaders left to compile 3038
+Worker (3/5): shaders left to compile 3037
+Worker (4/5): shaders left to compile 3036
+Worker (2/5): shaders left to compile 3035
+Worker (1/5): shaders left to compile 3034
+Worker (5/5): shaders left to compile 3033
+Worker (3/5): shaders left to compile 3032
+Worker (4/5): shaders left to compile 3031
+Worker (2/5): shaders left to compile 3030
+Worker (1/5): shaders left to compile 3029
+Worker (5/5): shaders left to compile 3028
+Worker (3/5): shaders left to compile 3027
+Worker (4/5): shaders left to compile 3026
+Worker (2/5): shaders left to compile 3025
+Worker (1/5): shaders left to compile 3024
+Worker (5/5): shaders left to compile 3023
+Worker (3/5): shaders left to compile 3022
+Worker (4/5): shaders left to compile 3021
+Worker (2/5): shaders left to compile 3020
+Worker (1/5): shaders left to compile 3019
+Worker (5/5): shaders left to compile 3018
+Worker (3/5): shaders left to compile 3017
+Worker (4/5): shaders left to compile 3016
+Worker (2/5): shaders left to compile 3015
+Worker (1/5): shaders left to compile 3014
+Worker (5/5): shaders left to compile 3013
+Worker (3/5): shaders left to compile 3012
+Worker (4/5): shaders left to compile 3011
+Worker (2/5): shaders left to compile 3010
+Worker (1/5): shaders left to compile 3009
+Worker (5/5): shaders left to compile 3008
+Worker (3/5): shaders left to compile 3007
+Worker (4/5): shaders left to compile 3006
+Worker (2/5): shaders left to compile 3005
+Worker (1/5): shaders left to compile 3004
+Worker (5/5): shaders left to compile 3003
+Worker (3/5): shaders left to compile 3002
+Worker (4/5): shaders left to compile 3001
+Worker (2/5): shaders left to compile 3000
+Worker (1/5): shaders left to compile 2999
+Worker (5/5): shaders left to compile 2998
+Worker (2/5): shaders left to compile 2997
+Worker (3/5): shaders left to compile 2996
+Worker (1/5): shaders left to compile 2995
+Worker (5/5): shaders left to compile 2994
+Worker (4/5): shaders left to compile 2993
+Worker (2/5): shaders left to compile 2992
+Worker (3/5): shaders left to compile 2991
+Worker (2/5): shaders left to compile 2990
+Worker (1/5): shaders left to compile 2989
+Worker (5/5): shaders left to compile 2988
+Worker (3/5): shaders left to compile 2987
+Worker (2/5): shaders left to compile 2986
+Worker (1/5): shaders left to compile 2985
+Worker (5/5): shaders left to compile 2984
+Worker (4/5): shaders left to compile 2983
+Worker (2/5): shaders left to compile 2982
+Worker (3/5): shaders left to compile 2981
+Worker (4/5): shaders left to compile 2980
+Worker (1/5): shaders left to compile 2979
+Worker (2/5): shaders left to compile 2978
+Worker (5/5): shaders left to compile 2977
+Worker (4/5): shaders left to compile 2976
+Worker (3/5): shaders left to compile 2975
+Worker (1/5): shaders left to compile 2974
+Worker (2/5): shaders left to compile 2973
+Worker (5/5): shaders left to compile 2972
+Worker (1/5): shaders left to compile 2971
+Worker (2/5): shaders left to compile 2970
+Worker (1/5): shaders left to compile 2969
+Worker (2/5): shaders left to compile 2968
+Worker (1/5): shaders left to compile 2967
+Worker (5/5): shaders left to compile 2966
+Worker (2/5): shaders left to compile 2965
+Worker (1/5): shaders left to compile 2964
+Worker (5/5): shaders left to compile 2963
+Worker (2/5): shaders left to compile 2962
+Worker (5/5): shaders left to compile 2961
+Worker (1/5): shaders left to compile 2960
+Worker (2/5): shaders left to compile 2959
+Worker (5/5): shaders left to compile 2958
+Worker (1/5): shaders left to compile 2957
+Worker (2/5): shaders left to compile 2956
+Worker (5/5): shaders left to compile 2955
+Worker (1/5): shaders left to compile 2954
+Worker (5/5): shaders left to compile 2953
+Worker (2/5): shaders left to compile 2952
+Worker (1/5): shaders left to compile 2951
+Worker (5/5): shaders left to compile 2950
+Worker (2/5): shaders left to compile 2949
+Worker (1/5): shaders left to compile 2948
+Worker (5/5): shaders left to compile 2947
+Worker (5/5): shaders left to compile 2946
+Worker (2/5): shaders left to compile 2945
+Worker (1/5): shaders left to compile 2944
+Worker (5/5): shaders left to compile 2943
+Worker (2/5): shaders left to compile 2942
+Worker (1/5): shaders left to compile 2941
+Worker (5/5): shaders left to compile 2940
+Worker (2/5): shaders left to compile 2939
+Worker (1/5): shaders left to compile 2938
+Worker (2/5): shaders left to compile 2937
+Worker (5/5): shaders left to compile 2936
+Worker (1/5): shaders left to compile 2935
+Worker (2/5): shaders left to compile 2934
+Worker (1/5): shaders left to compile 2933
+Worker (5/5): shaders left to compile 2932
+Worker (2/5): shaders left to compile 2931
+Worker (5/5): shaders left to compile 2930
+Worker (2/5): shaders left to compile 2929
+Worker (1/5): shaders left to compile 2928
+Worker (1/5): shaders left to compile 2927
+Worker (5/5): shaders left to compile 2926
+Worker (1/5): shaders left to compile 2925
+Worker (2/5): shaders left to compile 2924
+Worker (5/5): shaders left to compile 2923
+Worker (1/5): shaders left to compile 2922
+Worker (2/5): shaders left to compile 2921
+Worker (1/5): shaders left to compile 2920
+Worker (5/5): shaders left to compile 2919
+Worker (2/5): shaders left to compile 2918
+Worker (1/5): shaders left to compile 2917
+Worker (5/5): shaders left to compile 2916
+Worker (2/5): shaders left to compile 2915
+Worker (1/5): shaders left to compile 2914
+Worker (5/5): shaders left to compile 2913
+Worker (1/5): shaders left to compile 2912
+Worker (2/5): shaders left to compile 2911
+Worker (5/5): shaders left to compile 2910
+Worker (1/5): shaders left to compile 2909
+Worker (2/5): shaders left to compile 2908
+Worker (5/5): shaders left to compile 2907
+Worker (2/5): shaders left to compile 2906
+Worker (1/5): shaders left to compile 2905
+Worker (5/5): shaders left to compile 2904
+Worker (5/5): shaders left to compile 2903
+Worker (5/5): shaders left to compile 2902
+Worker (2/5): shaders left to compile 2901
+Worker (1/5): shaders left to compile 2900
+Worker (5/5): shaders left to compile 2899
+Worker (2/5): shaders left to compile 2898
+Worker (2/5): shaders left to compile 2897
+Worker (1/5): shaders left to compile 2896
+Worker (2/5): shaders left to compile 2895
+Worker (5/5): shaders left to compile 2894
+Worker (1/5): shaders left to compile 2893
+Worker (2/5): shaders left to compile 2892
+Worker (5/5): shaders left to compile 2891
+Worker (1/5): shaders left to compile 2890
+Worker (1/5): shaders left to compile 2889
+Worker (2/5): shaders left to compile 2888
+Worker (1/5): shaders left to compile 2887
+Worker (2/5): shaders left to compile 2886
+Worker (5/5): shaders left to compile 2885
+Worker (1/5): shaders left to compile 2884
+Worker (2/5): shaders left to compile 2883
+Worker (1/5): shaders left to compile 2882
+Worker (2/5): shaders left to compile 2881
+Worker (5/5): shaders left to compile 2880
+Worker (5/5): shaders left to compile 2879
+Worker (1/5): shaders left to compile 2878
+Worker (5/5): shaders left to compile 2877
+Worker (2/5): shaders left to compile 2876
+Worker (1/5): shaders left to compile 2875
+Worker (5/5): shaders left to compile 2874
+Worker (2/5): shaders left to compile 2873
+Worker (5/5): shaders left to compile 2872
+Worker (2/5): shaders left to compile 2871
+Worker (1/5): shaders left to compile 2870
+Worker (5/5): shaders left to compile 2869
+Worker (2/5): shaders left to compile 2868
+Worker (1/5): shaders left to compile 2867
+Worker (5/5): shaders left to compile 2866
+Worker (5/5): shaders left to compile 2865
+Worker (2/5): shaders left to compile 2864
+Worker (5/5): shaders left to compile 2863
+Worker (1/5): shaders left to compile 2862
+Worker (2/5): shaders left to compile 2861
+Worker (5/5): shaders left to compile 2860
+Worker (5/5): shaders left to compile 2859
+Worker (1/5): shaders left to compile 2858
+Worker (2/5): shaders left to compile 2857
+Worker (5/5): shaders left to compile 2856
+Worker (5/5): shaders left to compile 2855
+Worker (5/5): shaders left to compile 2854
+Worker (1/5): shaders left to compile 2853
+Worker (2/5): shaders left to compile 2852
+Worker (5/5): shaders left to compile 2851
+Worker (1/5): shaders left to compile 2850
+Worker (2/5): shaders left to compile 2849
+Worker (1/5): shaders left to compile 2848
+Worker (2/5): shaders left to compile 2847
+Worker (5/5): shaders left to compile 2846
+Worker (1/5): shaders left to compile 2845
+Worker (2/5): shaders left to compile 2844
+Worker (5/5): shaders left to compile 2843
+Worker (1/5): shaders left to compile 2842
+Worker (2/5): shaders left to compile 2841
+Worker (1/5): shaders left to compile 2840
+Worker (2/5): shaders left to compile 2839
+Worker (1/5): shaders left to compile 2838
+Worker (5/5): shaders left to compile 2837
+Worker (2/5): shaders left to compile 2836
+Worker (1/5): shaders left to compile 2835
+Worker (5/5): shaders left to compile 2834
+Worker (2/5): shaders left to compile 2833
+Worker (1/5): shaders left to compile 2832
+Worker (5/5): shaders left to compile 2831
+Worker (2/5): shaders left to compile 2830
+Worker (1/5): shaders left to compile 2829
+Worker (2/5): shaders left to compile 2828
+Worker (5/5): shaders left to compile 2827
+Worker (1/5): shaders left to compile 2826
+Worker (2/5): shaders left to compile 2825
+Worker (5/5): shaders left to compile 2824
+Worker (1/5): shaders left to compile 2823
+Worker (2/5): shaders left to compile 2822
+Worker (2/5): shaders left to compile 2821
+Worker (5/5): shaders left to compile 2820
+Worker (2/5): shaders left to compile 2819
+Worker (1/5): shaders left to compile 2818
+Worker (5/5): shaders left to compile 2817
+Worker (2/5): shaders left to compile 2816
+Worker (1/5): shaders left to compile 2815
+Worker (5/5): shaders left to compile 2814
+Worker (2/5): shaders left to compile 2813
+Worker (1/5): shaders left to compile 2812
+Worker (5/5): shaders left to compile 2811
+Worker (2/5): shaders left to compile 2810
+Worker (1/5): shaders left to compile 2809
+Worker (5/5): shaders left to compile 2808
+Worker (2/5): shaders left to compile 2807
+Worker (1/5): shaders left to compile 2806
+Worker (5/5): shaders left to compile 2805
+Worker (2/5): shaders left to compile 2804
+Worker (4/5): shaders left to compile 2803
+Worker (1/5): shaders left to compile 2802
+Worker (5/5): shaders left to compile 2801
+Worker (1/5): shaders left to compile 2800
+Worker (4/5): shaders left to compile 2799
+Worker (5/5): shaders left to compile 2798
+Worker (2/5): shaders left to compile 2797
+Worker (4/5): shaders left to compile 2796
+Worker (1/5): shaders left to compile 2795
+Worker (5/5): shaders left to compile 2794
+Worker (2/5): shaders left to compile 2793
+Worker (1/5): shaders left to compile 2792
+Worker (4/5): shaders left to compile 2791
+Worker (5/5): shaders left to compile 2790
+Worker (5/5): shaders left to compile 2789
+Worker (4/5): shaders left to compile 2788
+Worker (1/5): shaders left to compile 2787
+Worker (2/5): shaders left to compile 2786
+Worker (5/5): shaders left to compile 2785
+Worker (4/5): shaders left to compile 2784
+Worker (1/5): shaders left to compile 2783
+Worker (2/5): shaders left to compile 2782
+Worker (5/5): shaders left to compile 2781
+Worker (4/5): shaders left to compile 2780
+Worker (1/5): shaders left to compile 2779
+Worker (2/5): shaders left to compile 2778
+Worker (5/5): shaders left to compile 2777
+Worker (4/5): shaders left to compile 2776
+Worker (1/5): shaders left to compile 2775
+Worker (2/5): shaders left to compile 2774
+Worker (1/5): shaders left to compile 2773
+Worker (4/5): shaders left to compile 2772
+Worker (5/5): shaders left to compile 2771
+Worker (2/5): shaders left to compile 2770
+Worker (5/5): shaders left to compile 2769
+Worker (1/5): shaders left to compile 2768
+Worker (4/5): shaders left to compile 2767
+Worker (2/5): shaders left to compile 2766
+Worker (5/5): shaders left to compile 2765
+Worker (1/5): shaders left to compile 2764
+Worker (4/5): shaders left to compile 2763
+Worker (2/5): shaders left to compile 2762
+Worker (5/5): shaders left to compile 2761
+Worker (1/5): shaders left to compile 2760
+Worker (4/5): shaders left to compile 2759
+Worker (5/5): shaders left to compile 2758
+Worker (2/5): shaders left to compile 2757
+Worker (5/5): shaders left to compile 2756
+Worker (2/5): shaders left to compile 2755
+Worker (1/5): shaders left to compile 2754
+Worker (4/5): shaders left to compile 2753
+Worker (5/5): shaders left to compile 2752
+Worker (2/5): shaders left to compile 2751
+Worker (1/5): shaders left to compile 2750
+Worker (4/5): shaders left to compile 2749
+Worker (5/5): shaders left to compile 2748
+Worker (2/5): shaders left to compile 2747
+Worker (1/5): shaders left to compile 2746
+Worker (5/5): shaders left to compile 2745
+Worker (2/5): shaders left to compile 2744
+Worker (4/5): shaders left to compile 2743
+Worker (1/5): shaders left to compile 2742
+Worker (5/5): shaders left to compile 2741
+Worker (1/5): shaders left to compile 2740
+Worker (2/5): shaders left to compile 2739
+Worker (5/5): shaders left to compile 2738
+Worker (1/5): shaders left to compile 2737
+Worker (4/5): shaders left to compile 2736
+Worker (5/5): shaders left to compile 2735
+Worker (2/5): shaders left to compile 2734
+Worker (1/5): shaders left to compile 2733
+Worker (4/5): shaders left to compile 2732
+Worker (1/5): shaders left to compile 2731
+Worker (5/5): shaders left to compile 2730
+Worker (2/5): shaders left to compile 2729
+Worker (4/5): shaders left to compile 2728
+Worker (2/5): shaders left to compile 2727
+Worker (1/5): shaders left to compile 2726
+Worker (4/5): shaders left to compile 2725
+Worker (5/5): shaders left to compile 2724
+Worker (2/5): shaders left to compile 2723
+Worker (1/5): shaders left to compile 2722
+Worker (4/5): shaders left to compile 2721
+Worker (1/5): shaders left to compile 2720
+Worker (5/5): shaders left to compile 2719
+Worker (2/5): shaders left to compile 2718
+Worker (1/5): shaders left to compile 2717
+Worker (4/5): shaders left to compile 2716
+Worker (4/5): shaders left to compile 2715
+Worker (5/5): shaders left to compile 2714
+Worker (4/5): shaders left to compile 2713
+Worker (5/5): shaders left to compile 2712
+Worker (4/5): shaders left to compile 2711
+Worker (2/5): shaders left to compile 2710
+Worker (5/5): shaders left to compile 2709
+Worker (4/5): shaders left to compile 2708
+Worker (2/5): shaders left to compile 2707
+Worker (5/5): shaders left to compile 2706
+Worker (2/5): shaders left to compile 2705
+Worker (3/5): shaders left to compile 2704
+Worker (1/5): shaders left to compile 2703
+Worker (4/5): shaders left to compile 2702
+Worker (3/5): shaders left to compile 2701
+Worker (5/5): shaders left to compile 2700
+Worker (1/5): shaders left to compile 2699
+Worker (3/5): shaders left to compile 2698
+Worker (5/5): shaders left to compile 2697
+Worker (2/5): shaders left to compile 2696
+Worker (4/5): shaders left to compile 2695
+Worker (1/5): shaders left to compile 2694
+Worker (3/5): shaders left to compile 2693
+Worker (3/5): shaders left to compile 2692
+Worker (5/5): shaders left to compile 2691
+Worker (2/5): shaders left to compile 2690
+Worker (1/5): shaders left to compile 2689
+Worker (1/5): shaders left to compile 2688
+Worker (4/5): shaders left to compile 2687
+Worker (3/5): shaders left to compile 2686
+Worker (2/5): shaders left to compile 2685
+Worker (2/5): shaders left to compile 2684
+Worker (2/5): shaders left to compile 2683
+Worker (2/5): shaders left to compile 2682
+Worker (2/5): shaders left to compile 2681
+Worker (2/5): shaders left to compile 2680
+Worker (2/5): shaders left to compile 2679
+Worker (5/5): shaders left to compile 2678
+Worker (2/5): shaders left to compile 2677
+Worker (2/5): shaders left to compile 2676
+Worker (5/5): shaders left to compile 2675
+Worker (2/5): shaders left to compile 2674
+Worker (5/5): shaders left to compile 2673
+Worker (2/5): shaders left to compile 2672
+Worker (5/5): shaders left to compile 2671
+Worker (2/5): shaders left to compile 2670
+Worker (5/5): shaders left to compile 2669
+Worker (2/5): shaders left to compile 2668
+Worker (5/5): shaders left to compile 2667
+Worker (2/5): shaders left to compile 2666
+Worker (5/5): shaders left to compile 2665
+Worker (2/5): shaders left to compile 2664
+Worker (2/5): shaders left to compile 2663
+Worker (5/5): shaders left to compile 2662
+Worker (5/5): shaders left to compile 2661
+Worker (2/5): shaders left to compile 2660
+Worker (5/5): shaders left to compile 2659
+Worker (2/5): shaders left to compile 2658
+Worker (5/5): shaders left to compile 2657
+Worker (1/5): shaders left to compile 2656
+Worker (2/5): shaders left to compile 2655
+Worker (5/5): shaders left to compile 2654
+Worker (1/5): shaders left to compile 2653
+Worker (2/5): shaders left to compile 2652
+Worker (5/5): shaders left to compile 2651
+Worker (1/5): shaders left to compile 2650
+Worker (2/5): shaders left to compile 2649
+Worker (1/5): shaders left to compile 2648
+Worker (5/5): shaders left to compile 2647
+Worker (2/5): shaders left to compile 2646
+Worker (5/5): shaders left to compile 2645
+Worker (2/5): shaders left to compile 2644
+Worker (5/5): shaders left to compile 2643
+Worker (2/5): shaders left to compile 2642
+Worker (5/5): shaders left to compile 2641
+Worker (2/5): shaders left to compile 2640
+Worker (5/5): shaders left to compile 2639
+Worker (2/5): shaders left to compile 2638
+Worker (5/5): shaders left to compile 2637
+Worker (2/5): shaders left to compile 2636
+Worker (5/5): shaders left to compile 2635
+Worker (2/5): shaders left to compile 2634
+Worker (5/5): shaders left to compile 2633
+Worker (2/5): shaders left to compile 2632
+Worker (1/5): shaders left to compile 2631
+Worker (3/5): shaders left to compile 2630
+Worker (5/5): shaders left to compile 2629
+Worker (2/5): shaders left to compile 2628
+Worker (1/5): shaders left to compile 2627
+Worker (3/5): shaders left to compile 2626
+Worker (5/5): shaders left to compile 2625
+Worker (2/5): shaders left to compile 2624
+Worker (1/5): shaders left to compile 2623
+Worker (3/5): shaders left to compile 2622
+Worker (5/5): shaders left to compile 2621
+Worker (4/5): shaders left to compile 2620
+Worker (1/5): shaders left to compile 2619
+Worker (2/5): shaders left to compile 2618
+Worker (3/5): shaders left to compile 2617
+Worker (5/5): shaders left to compile 2616
+Worker (4/5): shaders left to compile 2615
+Worker (5/5): shaders left to compile 2614
+Worker (4/5): shaders left to compile 2613
+Worker (1/5): shaders left to compile 2612
+Worker (5/5): shaders left to compile 2611
+Worker (2/5): shaders left to compile 2610
+Worker (4/5): shaders left to compile 2609
+Worker (3/5): shaders left to compile 2608
+Worker (1/5): shaders left to compile 2607
+Worker (5/5): shaders left to compile 2606
+Worker (2/5): shaders left to compile 2605
+Worker (4/5): shaders left to compile 2604
+Worker (3/5): shaders left to compile 2603
+Worker (1/5): shaders left to compile 2602
+Worker (5/5): shaders left to compile 2601
+Worker (2/5): shaders left to compile 2600
+Worker (4/5): shaders left to compile 2599
+Worker (3/5): shaders left to compile 2598
+Worker (1/5): shaders left to compile 2597
+Worker (5/5): shaders left to compile 2596
+Worker (2/5): shaders left to compile 2595
+Worker (4/5): shaders left to compile 2594
+Worker (3/5): shaders left to compile 2593
+Worker (1/5): shaders left to compile 2592
+Worker (5/5): shaders left to compile 2591
+Worker (2/5): shaders left to compile 2590
+Worker (4/5): shaders left to compile 2589
+Worker (3/5): shaders left to compile 2588
+Worker (1/5): shaders left to compile 2587
+Worker (5/5): shaders left to compile 2586
+Worker (2/5): shaders left to compile 2585
+Worker (4/5): shaders left to compile 2584
+Worker (3/5): shaders left to compile 2583
+Worker (1/5): shaders left to compile 2582
+Worker (5/5): shaders left to compile 2581
+Worker (2/5): shaders left to compile 2580
+Worker (4/5): shaders left to compile 2579
+Worker (3/5): shaders left to compile 2578
+Worker (1/5): shaders l

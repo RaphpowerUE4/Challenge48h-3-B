@@ -1,0 +1,793 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "1377C89DA16A088F2AE48BDF2BF502139B1BBDC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1688414CD89977A07748629B990E50D77CD7273",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DCB2BEB298BB1FDB2DD5576BCBA4D54BCB52A6F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A115C4B23D984DB4B4879EF7DD19895AD5D5DC93",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "436614EAC4F7EDAFA738B47AC26E8AA1B29F6B97",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC1C8F315513D6FD6B99602058632FD5CC94DB27",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAEABAE68F044B51E874576AE31ED2A720639061",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF50FC30902E0BE6D1F80C032BD39CCD4462FDD2",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D8C413D4E0950D4882470C9231F9F951E268A53C",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "87F4CBC94163AD2E8AFDDE85A11B846D5E1CD1A0",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9F857D031898525B4927896D19496F2E43C9CDAF",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8BBBA9C6BC6AEABC7483AFD1CBD8AFAAF2E0229A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EFC8F70AC3C55E4C3AF941AC85112760C7661F6",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4564CCC9EC66F0C5CAF6C926C53AE9A9F6037D78",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "467DCEBC9FCDB7A4D8C32473C94DA0E4A1461A84",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "49ECC8780C513F3974BBF2DF359DE76FFC1DF4E7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C74D8DF2392830B0C61D6C8E2209B092C72BBC91",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "91322839AD3BC0B10768C60FE267124F8ACF3E4D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "ECA6EB6E767FAD309244E02AB4340B606C661539",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3F0FAC28B4E8F4805D490D5BF8E9E98AF1FAAF1E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFE19ACD306C0372E4089C343DE22F624930926B",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BC26750B6907DB9E251C71EFCF473EEF9DB33C81",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EE3782A55E68AD5A708644098FDADA3A348314D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6CBCE258F93622F0A3B0C192A648CF90F5FE8E2",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "538905F64751C0598ACE158DAE2E13224134368A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F4180A1811917491CF20DA899C95164B8C790CE",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "48EF3A962D0955DE9D59B074E2194C48876820E6",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A0BCB8AC45985BC5C01E9AF8E27A5B2A33910C27",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA2D4C61B8CDED8CE853E3B3FF13F5DD2EBB2DF8",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BE5F0192026BED226ED7C1B4683CD7D33A05F22A",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4C5488A4B1169D032F450007BC31BA1EC9C0B90",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C83472ED33C4C09F01B6879D27387D7E57FA2DC3",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E9969792BA43187FEEBBDE0A50795F53F83B117",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B743D91275AF9255B66C6AD3DF04D563AE186B5A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "50F1124BC903103E07D8D629379DA0BBCF159EB2",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "87988627C87DB629B1F45EFCC1720F9509785ECA",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B4D03639E99C7B8873937E2E9A2CA4F3AAD87CA3",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/Opaque_MicroVariation_RGB.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8CA16E5BBEBFCCD7AD52658A04145C9B4628E403",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Meshes/Arena_Misc/Stelle_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A17107E130708C32E07115F3C7378A2B67BC4DF",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Meshes/Arena_Misc/Mountains_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1A0A48DCBF3D6EC8E74624D062FBEB962B026C50",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/Opaque_MicroVariation.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E7949AA3E5B93600ECF18CFEC59506CA4CFA196",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/FloorMacroVar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F4ED076DE7BCAEF9C6F1F9A8FA44F8F5A9BA3796",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/FX/FX/FX_Smoke/FX_Mat/Mat_Smoke.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F5E7A45E21D78FD5ACF4CE5DF6103CB3EB4C9EC",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/FX/FX/FX_Fire/FX_Mat/Mat_Fire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8EB0E8124B7061BE5B37ADDBB47783A787660EB1",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16536795ADF450A7C2A8867187EBA1431EEF38AB",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A7BA7A16FD30DD1885B6F9DCDCB4BFA7C1EA9FA2",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/Opaque_Em.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "562C27B159287C4FF62C1BD842D79A91AFD3A96A",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Map/Shaders/MasterMats/LavaMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "74FFF7900F02053EE10E10F38DE3450EDA52604A",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "871281FFB583B093B7472DB672C47FEBED611925",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_AnamorphicLensFlares.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA0AEE50795BCCC89C444F1249E2714CDB92FB88",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Sharpen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "196E4B6BB21C2C38D6A9FFC37183CD409A8EB88B",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScreenFire.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB26F079D5B338C89113E2B65F49813889AD395",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Zone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "201A9002903CDA5B4336551EE0DEE074925F6A58",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_WorldSplash.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42A8FAD0D1F88ED87679628B478E3E511CFF2129",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_WorldGlitch.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8F34B4A05C928E7A1A9EE7315356CF7BF5B7CDAF",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Wired.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01F1E5BAD11FCAE04479C00C883103758BE47255",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_TVNoise.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2101C30C57D97615B84F242DA343EE203C27FEF1",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ToonShading.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A165D03030B1ED834B471EF0C390A34D2BC3564",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Tiles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B8C4827A3A59C36A0B8EFECA60B72B21928DA32",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Squares.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "73C1B3AC617BBAC442F32A87ABBF1C09505071A8",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Speedlines.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "24DC4E6C188988CC6DABDC776B98F4C22D3AC2A6",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Sonar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B7731AA852B3448F9A4FA5620C2BAC47264FB84",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Snow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "550C8812EF6AA46978AC186A01D369EB85D3FB76",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Sketch.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0BD63F6C5EC44C4EE18DBA9E2C57991FA4816C7E",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_SelectiveColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3CACC455E3C718A480CBC2BBD5779C84918156C6",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScreenWavesHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3237A8C34BB6BFBBA521921442AE319F3805DC22",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScreenDrops.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5596AC7375BFB4DEE061C569E169931F3B490FDC",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScreenDecals.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F2A5981571FB70398B3FAF3AA2556EC8990D08B4",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScreenDamage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "079E4EFEEFB609F99569D23296680A1D674C1302",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ScratchesHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01BD969EF5BAAE10A86D9D2C19CA86CA3CDB59B5",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_RadialBlurHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E1CEB9D8B23A50D4B31177C253BA43FA37DAE7C8",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Pyramid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A332E3F61D32ACCE8A09C2A0AE6ADE69C4FF71A4",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4A14EF6B5E810D97D77756BE1D30CA05D89E4D25",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_PixelDissolve.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "01AA48B64E63901EAEC7D1A2B6C88AB9AC7DC8D2",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Neon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C834B190F8F038754E11BC1C7EBD1D06453ABC86",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_MosaicTile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C809B92C6690E626281751D2CC7DBCC6232087C0",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_MonochromeHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7428C1C16870F1214BE86729C833FCA2B71C6C32",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_MonitorEffects.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA135B047B343475F5CA6B26AFD64D4075AC9F4A",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Mojo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1B21306C4556C1F144194B7624935A9E532A9D31",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_MeltedWorld.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4E2A1B99629144C0DCD453A3EECA3A8A5F2CFF81",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_MagicTransitions.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "767E5241A78875FD2BE6F15EBC15098D0E327875",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Letterboxing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD21A912F5F6F544FD79B855D31EC0B9D4377CD4",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_LensDistortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1DC6FD9FAFFDEEF1DAE56FC51877338D089ECC9",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Kaleidescope.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0677F24B6922DCB85837CA4741A36E5331B2785",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Kuwahara.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23BFBE32BE73539B90B1D3C1569D1307F01DB299",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Iridescent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "775B7187599D5C902867D947F3F14EDFBB55F743",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Invert.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3B8967FD8DAD84CE3263B3986C6CE4F30CF91C1E",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Infected.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "891158815988C3BF2FCEBCB946A5D7ACEE6BEEDE",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_HUEPanner.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AE5F355277931CC37A8B68E87F292D9A3319314",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_HazyLights.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD4F3400D5F35D869E6BECD19F3F58ECB09AD823",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Haunted.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D62C7CC96FBBBAB455A410F75EF5BD7278F675BE",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_HardEmbossHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B6297CB0D8F2E94713E64FEFC75D585B2ED0223C",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_GridCell.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "026BEA0CD7C771B0809BA168EE44E01464F427B6",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_GradientFog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA9A019463AEA9D764D297759AE75A07837A00F8",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_GlitchHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "113A56F14ABFD40A87172BCFC9B85D2DA2BEFE72",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Frost.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8C419702C6330998A3E5145FEAE29C485F32926",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Emboss3x3HLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B44B446F852A861D40A979343C6AE0F1C838A1C9",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Editor_ChameleonIcon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E1062708A48ED821D698FA94FDF13D2D76946E0",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_EdgeDetect3x3HLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "96C6EC1BE7B301C2FB7D9D35C213EBF1D8851377",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Drug.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44795BB45E3A91327CB9C6C9135038BC0284AADA",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Drawing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DA9108B173E67C5E702D1CC273B4B7B464B2090",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Dither.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B517ED8649FE2F705466BD3C851BC3D42303C75E",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_DistanceFog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "585FF082A5992CC942341164BC582054B8A63645",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_DistanceDistortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E45AB3FE40B6E4195425D3210E37AAF7D682979D",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_DiscoBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B0AF8857E39A904AFE01487A32B67B41676EFCBC",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Digitize.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9065FD85F968860E5131B1CD6C691898B371245",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_CyberScan.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8BB2A25CF495A4860A455EB4394CFE1E1D953557",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_CustomDepthHighlighterClip.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "786A44F638FEFD41AEF96B4E355B3F2241D68AC6",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_CustomDepthHighlighter.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AAA4B95873A785556A93B4A81F46C10B8FFBACCC",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ComicEdgeHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6654BD3AF7861452DA980BE26C2654811800B1CE",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ColorizeHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E06D3B8A0F13D94EA8C1E9B16D7E815B7AF5833",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ColorIndexer.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0F973FC21E2AA1435174363F38051D0C591FBD9E",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ColoredAO.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "498878F845D294DA719AE4399927757F93CAE28D",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Circles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8687F1586CA6DD01CBE156330878FCF863F1853",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ChannelSwapper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DCBFE49F5D4DDC67D9A184BB3217FE7B9812217B",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ChannelClamper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22554E53552E23848A9C3FC10BC676D148EB3351",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_CameraShake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9FC8471648C123602A3ED81523909EF1BD03E4B",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_BlurHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "48F9AFFD0E15E14E1F51DD4A0DC23FE543021AD8",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_BleachBypass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB440ED4F7FC5B0B971D1AD91735645805E97552",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_AsciiHLSL.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9535457E908C60C4CF483FEC11D6B8E0B7C56A29",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Alcohol.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "60ED6807866E4A48A9D364EE28BA5861EFBA6CE1",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_Alarm.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2EF22F064F70EF72C67757D63985AB28652A183",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_ActorFeaturette.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F25DCFEB33FD5AF115B8FABE305441AB87A359F8",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/Chameleon/Materials/M_2DTransform.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5AFA8B132FCE04396BAF2CC63EA9FF8E837780DD",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "04EDACBE9EDD7779477E803B0DC9D9098A4C8B72",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2AAD4C6B14E2D517E921BF383602548AEC67E5B9",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3258AA583196E518A4BB4FC9290EB8EBC6075EE",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "53B3533C7C90B27031C719FFB5F201B24E382165",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B6853D9607E0DD35201A8DE08A3C1D4BB8B5D3E7",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1994C6CCBFB0E0071B9D88738C74A0014C4CEF34",
+			"Assets": [
+				"../../../../Program Files (x86)/UnrealProjects/Challenge48h-3-B/Challenge/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F527AEB37E7D3C22668F38A7FF1E641AFBB08557",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		}
+	]
+}
